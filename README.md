@@ -4,5 +4,4 @@ Welcome to mine humble abode, where thou mayst peruse my works and find solace i
 I am gladdened by thy presence, and I doth hope that thou wilt find something of interest here.
 
 _Yours in kindest regards,
-thine humble apprentice,
-— Alexey_
+thine humble apprentice, Alexey._
